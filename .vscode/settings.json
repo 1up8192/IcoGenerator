@@ -1,0 +1,12 @@
+{
+  // Solium linting validation rules
+  "solidity.soliumRules": {
+    "imports-on-top": 0,
+    "variable-declarations": 0,
+    "indentation": [],
+    "quotes": []
+  },
+
+  // Delay to trigger the validation of the changes of the current document (compilation, solium)
+  "solidity.validationDelay": 1500
+}
