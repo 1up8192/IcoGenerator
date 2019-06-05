@@ -8,5 +8,6 @@
   },
 
   // Delay to trigger the validation of the changes of the current document (compilation, solium)
-  "solidity.validationDelay": 1500
+  "solidity.validationDelay": 1500,
+  "git.ignoreLimitWarning": true
 }
